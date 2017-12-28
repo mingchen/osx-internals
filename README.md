@@ -1,4 +1,4 @@
-# Notes on <<Mac OS X Internals>>
+# Notes on *Mac OS X Internals: A system Approach*
 
 ## Book Info
 
